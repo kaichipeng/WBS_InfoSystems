@@ -11,7 +11,7 @@ Welcome to the Warwick Bussiness School Financial Technology - Machine Learning 
   2. [forecasting.ipynb](forecasting.ipynb) - In this notebook we look at some classic econometric techniques that can be used to forecast the data.
   3. [prepocessing.ipynb](prepocessing.ipynb) - Here we preprocess the data to prepare it for machine learning.
   4. [fitting_models.ipynb](fitting_models.ipynb) - In this notebook, we fit our first machine learning models to the data.
-  5. [index.ipynb](index.ipynb) - Here we use the [Global MSCI Index](msci.com) to adjust our independent variable and look at some methods to explain our machine learning models.
+  5. [index.ipynb](index.ipynb) - Here we use  to adjust our independent variable and look at some methods to explain our machine learning models.
   6. [pca.ipynb](pca.ipynb) - In this final notebook, we look at how we can convert categorical data into a numeric form to use in a machine learning. We will see that this can lead to high dimensional data leading to a discussion about dimensiaonality reduction techniques. 
   
 ## Downloading and running the code

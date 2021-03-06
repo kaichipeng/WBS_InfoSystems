@@ -42,7 +42,7 @@ After we have create the fintech environment, we can activate it using `conda ac
 
 Opening jupyter notebook from within the conda environment ensures that jupyter notebook is opened using the fintech environment. 
 
-## Contact details
+## Owner details
 
 ### Dan Philps, PhD, CFA
 Dr Dan Philps is head of Rothko Investment Strategies and is an artificial intelligence (AI) researcher. He has over 20 years of quantitative investment experience. Prior to Rothko, he was a senior portfolio manager at Mondrian Investment Partners. Before 1998, Philps worked at a number of major investment banks, specializing in the design/development of trading and risk models.

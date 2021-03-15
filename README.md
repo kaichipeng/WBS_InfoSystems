@@ -5,6 +5,7 @@
 ---
 
 Welcome to the Warwick Bussiness School Financial Technology - Machine Learning Driven Quantitative Investment Github repository. This repository contains all of the Python code that we will be looking at throughout this module. The notebooks are designed to show you how we can use Python to preprocess and model financial data. The raw data that we will be using can be found in the [`Data`](Data) folder. 
+Thanks to Mr Alex Gregory for his contributions to the development of this programme.
 
 ## Contents 
   1. [loading_data.ipynb](https://github.com/danphilps/WBS_InfoSystems/blob/main/loading_data.ipynb) - For those of you that have downloaded the data in the data in the XLSX format, this notebook shows you how we can use Python to automatically convert the worksheets in the XLSX into seperate CSV which are much faster to work with in Python.

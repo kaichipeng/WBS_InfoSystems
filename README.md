@@ -44,7 +44,7 @@ Opening jupyter notebook from within the conda environment ensures that jupyter 
 
 ## Owner details
 
-<img src="Images/dgp.png" width=100px > ### Dan Philps, PhD, CFA
+<img src="Images/DGP.png" width=100px > ### Dan Philps, PhD, CFA
 Dr Dan Philps is head of Rothko Investment Strategies and is an artificial intelligence (AI) researcher. He has over 20 years of quantitative investment experience. Prior to Rothko, he was a senior portfolio manager at Mondrian Investment Partners. Before 1998, Philps worked at a number of major investment banks, specializing in the design/development of trading and risk models.
 He holds a PhD in AI and Computer Science from City, University of London, a BSc (Hons) from King’s College London, is a CFA charterholder, a member of CFA Society of the UK and is a member of the AAAI.
 

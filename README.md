@@ -52,4 +52,4 @@ He holds a PhD in AI and Computer Science from City, University of London, a BSc
 
 ### Alex Gregory
 <img src="Images/picture[3187].jpg" width=100px > 
-Mr Alex Gregory is an artificial intelligence (AI) researcher, and a Research Assistant at the University of Nottingham. Alex specialises in applying artificial intelligence to healthcare, with recent work using EEG data to predict neurological conditions. Alex has a BSc (Hons) in mathematics fro UNiversity of Nottingham and a MSc in artificial intelligence from Southampton University.
+Mr Alex Gregory is an artificial intelligence (AI) researcher, and a Research Assistant at the University of Nottingham. Alex specialises in applying artificial intelligence to healthcare, with recent work using EEG data to predict neurological conditions. Alex has a BSc (Hons) in mathematics from University of Swansea and a MSc in artificial intelligence from Southampton University.

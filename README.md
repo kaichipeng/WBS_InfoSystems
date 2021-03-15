@@ -44,9 +44,11 @@ Opening jupyter notebook from within the conda environment ensures that jupyter 
 
 ## Owner details
 
-<img src="Images/DGP.png" width=100px > ### Dan Philps, PhD, CFA
+### Dan Philps, PhD, CFA
+<img src="Images/DGP.png" width=100px > 
 Dr Dan Philps is head of Rothko Investment Strategies and is an artificial intelligence (AI) researcher. He has over 20 years of quantitative investment experience. Prior to Rothko, he was a senior portfolio manager at Mondrian Investment Partners. Before 1998, Philps worked at a number of major investment banks, specializing in the design/development of trading and risk models.
 He holds a PhD in AI and Computer Science from City, University of London, a BSc (Hons) from King’s College London, is a CFA charterholder, a member of CFA Society of the UK and is a member of the AAAI.
 
 ### Alex Gregory
-<img src="Images/picture[3187].jpg" width=100px > Mr Gregory is an artificial intelligence (AI) researcher, and a Research Assistant at the University of Nottingham. Alex specialises in applying artificial intelligence to healthcare, with recent work using EEG data to predict neurological conditions. Alex has a BSc (Hons) in mathematics fro UNiversity of Nottingham and a MSc in artificial intelligence from Southampton University.
+<img src="Images/picture[3187].jpg" width=100px > 
+Mr Gregory is an artificial intelligence (AI) researcher, and a Research Assistant at the University of Nottingham. Alex specialises in applying artificial intelligence to healthcare, with recent work using EEG data to predict neurological conditions. Alex has a BSc (Hons) in mathematics fro UNiversity of Nottingham and a MSc in artificial intelligence from Southampton University.

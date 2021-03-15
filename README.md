@@ -9,9 +9,9 @@ Thanks to Mr Alex Gregory for his contributions to the development of this progr
 
 ## Contents 
   1. [loading_data.ipynb](https://github.com/danphilps/WBS_InfoSystems/blob/main/loading_data.ipynb) - For those of you that have downloaded the data in the data in the XLSX format, this notebook shows you how we can use Python to automatically convert the worksheets in the XLSX into seperate CSV which are much faster to work with in Python.
-  2. [forecasting.ipynb](forecasting.ipynb) - In this notebook we look at some classic econometric techniques that can be used to forecast the data.
-  3. [prepocessing.ipynb](prepocessing.ipynb) - Here we preprocess the data to prepare it for machine learning.
-  4. [fitting_models.ipynb](fitting_models.ipynb) - In this notebook, we fit our first machine learning models to the data.
+  2. [preprocessing_pt1.ipynb](preprocessing_pt1.ipynb) - We formulate our problem... machine elarning driven quanitative investing, extract the data, stack it, preprocess it and learn how to impute missing values.
+  3. [preprocessing_pt2.ipynb](preprocessing_pt2.ipynb) - We learn how to deal with categorical data such as country, sector static info for our stocks, we touch on PCA to reduce the dimensionality of our dataset (thus making it much easier to pass into many learners) and finish by looking at non-linear dimensionslity reduction by super powerful neural based auto-encoders.
+  4. [learners.ipynb](learners.ipynb) - Now the nitty gritty. Learners applied to our prepped dataset, starting with simple ordinary least squares regression (OLS) used to illustrate the basics and to look at the weaknesses of OLS. The lessong is don't forget Econometrics, it will help in our machine learning, 
   5. [index.ipynb](index.ipynb) - Here we use  to adjust our independent variable and look at some methods to explain our machine learning models.
   6. [pca.ipynb](pca.ipynb) - In this final notebook, we look at how we can convert categorical data into a numeric form to use in a machine learning. We will see that this can lead to high dimensional data leading to a discussion about dimensiaonality reduction techniques. 
   

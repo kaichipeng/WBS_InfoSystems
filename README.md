@@ -1,4 +1,4 @@
-<img width="160" alt="portfolio_view" src="Images/wbs_lecture_infosystems.png">
+<img width="1000" alt="portfolio_view" src="Images/wbs_lecture_infosystems.png">
 
 ---
 

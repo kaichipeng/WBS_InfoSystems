@@ -49,7 +49,7 @@ After we have create the fintech environment, we can activate it using `conda ac
 Opening jupyter notebook from within the conda environment ensures that jupyter notebook is opened using the fintech environment. 
 
 ## Acknowledgements 
-Thanks to Prof Ram Gopal for hosting this course and for his help and support in building this content. Thanks to Mr Alex Gregory for his significant contributions to the development of this programme.
+Thanks to Mr Alex Gregory for his significant contributions to the development of this programme.
 
 ## Owner details
 

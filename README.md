@@ -59,6 +59,7 @@ Dr Dan Philps is head of Rothko Investment Strategies and is an artificial intel
 He holds a PhD in AI and Computer Science from City, University of London, a BSc (Hons) from King’s College London, is a CFA charterholder, a member of CFA Society of the UK and is a member of the AAAI.
 
 ### Prof Ram D. Gopal, PhD 
+<img src="Images/file-20200609-21238-1phgh93.jpg" width=100px > 
 Prof Ram D. Gopal is the Information Systems Society’s Distinguished Fellow, a Professor of Information Systems Management, and Pro-Dean for Research, Engagement, and Impact at the Warwick Business School. He also serves as the Academic Director of the Gillmore Centre for Financial Technology at the Warwick Business School. He has a diverse and a rich portfolio of research that spans big data analytics, health informatics, financial technologies, information security, privacy and valuation, intellectual property rights, online market design and business impacts of technology.
 
 ### Alex Gregory

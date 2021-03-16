@@ -1,6 +1,4 @@
-<img width="160" alt="portfolio_view" src="Images/wbs_logo.png">
-
-<img width="750" alt="portfolio_view" src="Images/banner.png">
+<img width="160" alt="portfolio_view" src="Images/wbs_lecture_infosystems.png">
 
 ---
 

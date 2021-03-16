@@ -4,17 +4,22 @@
 
 ---
 
-Welcome to the Warwick Bussiness School Financial Technology - Machine Learning Driven Quantitative Investment Github repository. This repository contains all of the Python code that we will be looking at throughout this module. The notebooks are designed to show you how we can use Python to preprocess and model financial data. The raw data that we will be using can be found in the [`Data`](Data) folder. 
-Thanks to Mr Alex Gregory for his contributions to the development of this programme.
+Welcome to the Warwick Bussiness School Financial Technology - Machine Learning Driven Quantitative Investment Github repository. This repository is unique in that it contains machine learning techniques, models and advanced approaches that are directly applied to a broad universe of global stocks using Python's best libraries and driving performance from the power of machine learning. Casuality is our aim here and we talk to Granger causality and employ a ML toolkit cultminating in mutli-task machine learning to get us to the right answers. The authors do this stuff for real btw. 
+
+We start our journey by loading our extensive dataset of several thousand global stocks across emerging and developed markets. We learn how to preprocess the data, impute, normalise and stack the information, ready for our learners. We touch on dimensionality reduction using powerful neural, autoencoders. We take a short digression into Granger Causality as a foundation for the causality we wnat from our ML. Our learners start with OLS, ElasticNets, Random Forests, Artificial Neural Nets, before we get deep into cutting edge explainable AI (XAI). Explainability is crucial in finance and other domains where we are making critical decisions and those decisions may need to be scrutinised by clients, regulators, whoever. We look at LIME and SHAP as XAI approaches to explain the working of black box learners. Finally we end on the advanced topic of mutli-task learning, one of the most powerful ways of achieving causal driven learning . 
+
+This site contains the Python code for our module. The notebooks are designed to be self standing and can be worked through in your own time. The raw data that we will be using can be found in the [`Data`](Data) folder. 
 
 ## Contents 
   1. [loading_data.ipynb](https://github.com/danphilps/WBS_InfoSystems/blob/main/loading_data.ipynb) - For those of you that have downloaded the data in the data in the XLSX format, this notebook shows you how we can use Python to automatically convert the worksheets in the XLSX into seperate CSV which are much faster to work with in Python.
   2. [preprocessing_pt1.ipynb](preprocessing_pt1.ipynb) - We formulate our problem... machine elarning driven quanitative investing, extract the data, stack it, preprocess it and learn how to impute missing values.
   3. [preprocessing_pt2.ipynb](preprocessing_pt2.ipynb) - We learn how to deal with categorical data such as country, sector static info for our stocks, we touch on PCA to reduce the dimensionality of our dataset (thus making it much easier to pass into many learners) and finish by looking at non-linear dimensionslity reduction by super powerful neural based auto-encoders.
-  4. [learners.ipynb](learners.ipynb) - Now the nitty gritty. Learners applied to our prepped dataset, starting with simple ordinary least squares regression (OLS) used to illustrate the basics and to look at the weaknesses of OLS. The lessong is don't forget Econometrics, it will help in our machine learning, 
-  5. [index.ipynb](index.ipynb) - Here we use  to adjust our independent variable and look at some methods to explain our machine learning models.
-  6. [pca.ipynb](pca.ipynb) - In this final notebook, we look at how we can convert categorical data into a numeric form to use in a machine learning. We will see that this can lead to high dimensional data leading to a discussion about dimensiaonality reduction techniques. 
-  
+  4. [time_series_forecasting_causality.ipynb](learners.ipynb) - We pause to look at simple techniques ot view our dataset and construct simple Econometric style time-series learners, concluding this notebook with Granger-causality. 
+  5. [learners.ipynb](learners.ipynb) - Now the nitty gritty. Machine learning (ML) learners applied to our prepped dataset. We start with simple ordinary least squares regression (OLS) used to illustrate learner basics and to look at the weaknesses of OLS. The lesson is don't forget Econometrics, it will help in our machine learning. We progress to Regularisation, ElasticNets regresison, RandomForest, Neural nets. We then use XAI, explainable AI, using cutting edge tools to show how the outputs and dynamics of black box learners can be explained. LIME, SHAP are examined.   
+  6. [MLT.ipynb](MLT.ipynb) - Finally we touch upon another cutting edge topic, multi-task-learning, where by learning multiple outcomes we can strengthen the results of out learner. We introduce a simple and cheap approach to MTL specific to finance that we have developed. 
+
+We hope you enjoy our course and get loads out of it. 
+
 ## Downloading and running the code
 
 The first step is to download the repository onto your computer. To do this click the green code button in top right of this page and click download as zip.
@@ -42,6 +47,9 @@ After we have create the fintech environment, we can activate it using `conda ac
 <img src="Images/open_notebook.png" width=400px >
 
 Opening jupyter notebook from within the conda environment ensures that jupyter notebook is opened using the fintech environment. 
+
+## Acknowledgements 
+Thanks to Prof Ram Gopal for hosting this course and for his help and support in building this content. Thanks to Mr Alex Gregory for his significant contributions to the development of this programme.
 
 ## Owner details
 
